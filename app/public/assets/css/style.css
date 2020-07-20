@@ -1,0 +1,71 @@
+/* * {
+    box-sizing: border-box;
+  } */
+body {
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    position: relative;
+  }
+
+
+
+.headerMain {
+    background-color: rgb(183, 207, 189);
+    padding: 5px;
+    font-size: 15px;    
+}
+
+
+.navbar-header {
+    margin-left: 150px;
+}
+
+.logoImage {
+    height: 50px;
+    margin-left: 210px;
+}
+
+.cardSearch {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    height: 70px;
+}
+
+.cardSearch input {
+    margin-left: 235px;
+    margin-top: 20px;
+    border-bottom: 1px solid black;
+    border-top: 0;
+    border-right: 0;
+    border-left: 0;
+}
+
+.footer {
+    background-color: rgb(183, 207, 189);
+    padding: 5px;
+    align-items: center;
+}
+
+.footer span a {
+    margin-left: 8px;
+}
+
+footer {
+    /* position:absolute; */
+    left:0;
+    bottom:0;
+    right:0;
+    
+}
+
+
+.imgList {
+    width: 200px;
+    height: 200px;
+    margin: 60px;
+}
+
+.card-img-top {
+    height: 210px;
+    width: 290px;
+}
+
